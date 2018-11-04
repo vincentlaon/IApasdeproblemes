@@ -1,0 +1,10 @@
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\bin\Debug\Partie1.exe.config
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\bin\Debug\Partie1.exe
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\bin\Debug\Partie1.pdb
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\obj\Debug\Partie1.csprojResolveAssemblyReference.cache
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\obj\Debug\Partie1.FormAccueil.resources
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\obj\Debug\Partie1.Properties.Resources.resources
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\obj\Debug\Partie1.QCMForm.resources
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\obj\Debug\Partie1.csproj.GenerateResource.Cache
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\obj\Debug\Partie1.exe
+c:\users\ethioliere\documents\visual studio 2015\Projects\ProjetIA\Partie1\obj\Debug\Partie1.pdb
